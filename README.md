@@ -7,3 +7,4 @@
   3.2 Si son exactamente iguales entonces continuamos con el proceso
 4.Si hemos llegado a este punto regresar verdadero
 5.Fin
+!['Nombre del archivo']('rutade la imagen')
